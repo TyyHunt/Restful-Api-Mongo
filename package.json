@@ -1,0 +1,19 @@
+{
+  "name": "restful-api-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TyyHunt/Restful-Api-Mongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TyyHunt/Restful-Api-Mongo/issues"
+  },
+  "homepage": "https://github.com/TyyHunt/Restful-Api-Mongo#readme"
+}
