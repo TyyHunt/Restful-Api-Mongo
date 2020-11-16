@@ -12,9 +12,9 @@ exports.getAllTasks = function(req, res) {
 exports.getTask = function(req, res) {
  Tasks.findById(req.params.taskId, function(err, data) {
   if(err) {
-   res.send(err);
+    res.send(err);
   }
-  res.json(data);
+    res.json(data);
  });
 }
 
